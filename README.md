@@ -1,4 +1,4 @@
-# test_app
+# OLS Mobile App
 
 A new Flutter project.
 
